@@ -1,0 +1,17 @@
+.cloud {
+  height: 80vh;
+  padding: 10px;
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+}
+
+@keyframes fadein {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}  
+
+.no-matches {
+  animation-name: fadein;
+  animation-duration: 0.5s;
+}

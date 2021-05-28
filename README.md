@@ -20,4 +20,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src="wordcloud.gif" width="1600">
 
-<img src="responsive.gif" width="1200">
+<img src="responsive.gif" width="800">
